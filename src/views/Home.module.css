@@ -1,0 +1,13 @@
+.card {
+  display: flex;
+  background-color: rgb(47, 85, 141) ;
+  color: aliceblue;
+}
+
+.card img {
+  background-color: white;
+  border-radius: 100px;
+  padding: 10px;
+  width: 100px;
+  margin: 20px;
+}
